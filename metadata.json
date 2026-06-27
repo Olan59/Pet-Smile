@@ -1,0 +1,6 @@
+{
+  "name": "Pet Smile AI",
+  "description": "AI-powered external wound evaluation assistant for cats and dogs, designed to help pet owners assess severity, get safe first-aid tips, and determine care urgency.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
